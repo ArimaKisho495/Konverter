@@ -1,0 +1,6 @@
+[submodule "Konverter"]
+	path = Konverter
+	url = https://github.com/ArimaKisho495/Konverter
+[submodule "app"]
+	path = app
+	url = https://github.com/ArimaKisho495/Konverter
